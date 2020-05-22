@@ -1,0 +1,11 @@
+# Dataset File
+FullIJCNN2013.zip
+FullIJCNN2013
+
+#checkoutpoint file
+.ipynb_checkpoints
+
+#checkoutpoint folder in any level
+*/.ipynb_checkpoints/*
+
+
